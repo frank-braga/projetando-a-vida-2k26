@@ -1,1 +1,1 @@
-# projetando-a-vida-2k26
+# Javascript-projeto-de-vida
